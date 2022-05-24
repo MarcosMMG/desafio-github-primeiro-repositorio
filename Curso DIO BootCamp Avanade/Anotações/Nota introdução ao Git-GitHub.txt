@@ -1,3 +1,8 @@
+Para criar um repositirio temos que criar no site do GitHub
+colocar o nome do repositório(Repository name) marca ADD A README FILE, e criar o repositório
+(CREATE REPOSITORY). Vai ate o CODE copia o HTTPS ou SSH abra o CMD na parta onde ira alocar  o repositorio
+e PRONTO 😁
+
 git clone ▶ Clonar 
 
 git status  ▶ exibe as condições do diretório de trabalho e da área de staging. 
