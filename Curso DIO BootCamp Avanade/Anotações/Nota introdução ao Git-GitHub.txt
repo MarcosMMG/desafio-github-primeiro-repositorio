@@ -1,0 +1,11 @@
+git clone ▶ Clonar 
+
+git status  ▶ exibe as condições do diretório de trabalho e da área de staging. 
+
+git commit -m "discrição ou comentario"    ▶ Com ele podemos criar projetos em que várias pessoas podem contribuir simultaneamente, 
+editando e criando novos arquivos e permitindo que esses arquivos possam existir sem o risco de suas alterações serem perdidas.
+
+git pull    ▶ Puxa os dados do GitHub para sua maquina e atualiza.(PUXA)
+
+git push origin main ▶ Ele envia os arquivo feito na maquinva pra o Github.(EMPURRE)
+
